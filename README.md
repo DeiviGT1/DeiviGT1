@@ -18,7 +18,7 @@ Aquí encontrarás una mezcla de proyectos emocionantes que he creado. Desde apl
 
 ## 🚀 Objetivos
 - Contribuir más a proyectos de código abierto.
-- Aprender sobre [Swift].
+- Explorar [Swift] y profundizar mis conocimientos en esa área.
 - Compartir conocimientos a través de blogs y tutoriales.
 
 ## 📫 Conectemos
