@@ -18,13 +18,13 @@ Aquí encontrarás una mezcla de proyectos emocionantes que he creado. Desde apl
 
 ## 🚀 Objetivos
 - Contribuir más a proyectos de código abierto.
-- Explorar [Swift] y profundizar mis conocimientos en esa área.
+- Explorar Swift y profundizar mis conocimientos en esa área.
 - Compartir conocimientos a través de blogs y tutoriales.
 
 ## 📫 Conectemos
 ¡Me encantaría conectarme contigo y colaborar en proyectos emocionantes! Encuéntrame en:
 
-- LinkedIn: [Davidgt1](https://www.linkedin.com/in/davidgt1/))
+- LinkedIn: [Davidgt1](https://www.linkedin.com/in/davidgt1/)
 - Twitter: [@DavidGT1](tu_twitter)
 - Sitio web: [jdavidgonzalez.netlify.app](https://jdavidgonzalez.netlify.app/#)
 
