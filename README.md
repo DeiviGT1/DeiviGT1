@@ -1,31 +1,31 @@
-# ¡Hola, soy David! 👋
+# Hello, I'm David! 👋
 
-## Sobre Mí
-¡Bienvenido a mi rincón en GitHub! Soy un apasionado ingeniero administrativo de 23 años con un enfoque vibrante en la ciencia de datos y el desarrollo web. Siempre estoy emocionado por aprender nuevas tecnologías y explorar el vasto universo del desarrollo de aplicaciones.
+## About Me
+Welcome to my corner on GitHub! I'm a passionate 23-year-old management engineer with a vibrant focus on data science and web development. I'm always excited to learn new technologies and explore the vast universe of application development.
 
-## 👨‍💻 Habilidades y Conocimientos
-- Desarrollo Web: HTML, CSS, JavaScript, React
-- Ciencia de Datos: Python, Pandas, NumPy, Scikit-Learn
-- Bases de Datos: SQL, MongoDB
-- Herramientas de Desarrollo: Git, VS Code, Jupyter Notebooks
-- Aprendiendo constantemente y explorando nuevas tecnologías.
+## 👨‍💻 Skills and Knowledge
+- Web Development: HTML, CSS, JavaScript, React  
+- Data Science: Python, Pandas, NumPy, Scikit-Learn  
+- Databases: SQL, MongoDB  
+- Development Tools: Git, VS Code, Jupyter Notebooks  
+- Constantly learning and exploring new technologies.  
 
-## Proyectos Destacados
-Aquí encontrarás una mezcla de proyectos emocionantes que he creado. Desde aplicaciones web interactivas hasta análisis de datos intrigantes, ¡mi repositorio es un festín para los entusiastas de la tecnología!
+## Featured Projects
+Here you'll find a mix of exciting projects I've created. From interactive web applications to intriguing data analysis, my repository is a feast for tech enthusiasts!  
 
-- [Spotify API](https://github.com/DeiviGT1/spotify.git): Un análisis de datos fascinante sobre las preferencias musicales de los usuarios de Spotify. Este proyecto utiliza la API de Spotify para recopilar datos detallados sobre playlists, canciones y perfiles de usuario. A través de la magia de la ciencia de datos, descubre patrones, promedios de popularidad y más, proporcionando una visión profunda de la diversidad musical en las playlists de los usuarios de Spotify.
-- [OpenAI API](https://github.com/DeiviGT1/openaiAPI.git): Una aplicación web asombrosa que utiliza la API de OpenAI para ofrecer recomendaciones de canciones basadas en el análisis de letras, género musical, artistas y popularidad. Simplemente ingresa el nombre de tu canción favorita y descubre nuevas joyas musicales que se adaptan a tus gustos únicos. ¡La combinación perfecta de ciencia de datos y pasión por la música!
+- [Spotify API](https://github.com/DeiviGT1/spotify.git): A fascinating data analysis project on Spotify users' music preferences. This project uses the Spotify API to collect detailed data on playlists, songs, and user profiles. Through the magic of data science, uncover patterns, popularity averages, and more, providing deep insights into the musical diversity of Spotify users' playlists.  
+- [OpenAI API](https://github.com/DeiviGT1/openaiAPI.git): An amazing web application leveraging the OpenAI API to recommend songs based on lyric analysis, musical genres, artists, and popularity. Simply enter your favorite song, and discover new musical gems tailored to your unique tastes. The perfect blend of data science and a passion for music!  
 
-## 🚀 Objetivos
-- Contribuir más a proyectos de código abierto.
-- Explorar Swift y profundizar mis conocimientos en esa área.
-- Compartir conocimientos a través de blogs y tutoriales.
+## 🚀 Goals
+- Contribute more to open-source projects.  
+- Explore Swift and deepen my knowledge in that area.  
+- Share knowledge through blogs and tutorials.  
 
-## 📫 Conectemos
-¡Me encantaría conectarme contigo y colaborar en proyectos emocionantes! Encuéntrame en:
+## 📫 Let's Connect
+I’d love to connect with you and collaborate on exciting projects! Find me on:  
 
-- LinkedIn: [Davidgt1](https://www.linkedin.com/in/davidgt1/)
-- Twitter: [@DavidGT1](tu_twitter)
-- Sitio web: [josedavidgt.com](https://josedavidgt.com/#)
+- LinkedIn: [Davidgt1](https://www.linkedin.com/in/davidgt1/)  
+- Twitter: [@DavidGT1](tu_twitter)  
+- Website: [josedavidgt.com](https://josedavidgt.com/#)  
 
-¡Gracias por visitar mi espacio! 🌟
+Thanks for visiting my space! 🌟  
