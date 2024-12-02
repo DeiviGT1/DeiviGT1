@@ -26,6 +26,6 @@ Aquí encontrarás una mezcla de proyectos emocionantes que he creado. Desde apl
 
 - LinkedIn: [Davidgt1](https://www.linkedin.com/in/davidgt1/)
 - Twitter: [@DavidGT1](tu_twitter)
-- Sitio web: [jdavidgonzalez.netlify.app](https://jdavidgonzalez.netlify.app/#)
+- Sitio web: [josedavidgt.com](https://josedavidgt.com/#)
 
 ¡Gracias por visitar mi espacio! 🌟
