@@ -1,31 +1,30 @@
-# Hello, I'm David! 👋
+# Hi, I’m **Jose David González** 👋
 
-## About Me
-Welcome to my corner on GitHub! I'm a passionate 23-year-old management engineer with a vibrant focus on data science and web development. I'm always excited to learn new technologies and explore the vast universe of application development.
+## 🚀 About me  
+Management Engineer turned data-driven developer, passionate about uncovering insights and building fast, user-friendly web apps. I thrive on learning new tools, automating workflows, and sharing what I discover along the way.
 
-## 👨‍💻 Skills and Knowledge
-- Web Development: HTML, CSS, JavaScript, React  
-- Data Science: Python, Pandas, NumPy, Scikit-Learn  
-- Databases: SQL, MongoDB  
-- Development Tools: Git, VS Code, Jupyter Notebooks  
-- Constantly learning and exploring new technologies.  
+## 🛠️ Tech toolbox  
+| Domain | Stack |
+| ------ | ----- |
+| **Languages & Libraries** | Python · Pandas · NumPy · scikit-learn · JavaScript/TypeScript · React |
+| **Web** | HTML · CSS · Tailwind · Next.js |
+| **Data** | SQL · PostgreSQL · MongoDB |
+| **Cloud & DevOps** | Docker · GCP (Cloud Run, BigQuery) |
+| **Workflow** | Git/GitHub · VS Code · Jupyter Lab |
 
-## Featured Projects
-Here you'll find a mix of exciting projects I've created. From interactive web applications to intriguing data analysis, my repository is a feast for tech enthusiasts!  
+## 📂 Featured projects  
+| Project | Description |
+| ------- | ----------- |
+| **[Spotify Analytics](https://github.com/DeiviGT1/spotify)** | Python notebooks that pull playlist data via the Spotify API, calculate popularity metrics, and surface listening patterns. |
+| **[OpenAI Song Recommender](https://github.com/DeiviGT1/openaiAPI)** | React app that uses the OpenAI API to suggest new tracks based on lyrics, genre, and artist similarity. |
 
-- [Spotify API](https://github.com/DeiviGT1/spotify.git): A fascinating data analysis project on Spotify users' music preferences. This project uses the Spotify API to collect detailed data on playlists, songs, and user profiles. Through the magic of data science, uncover patterns, popularity averages, and more, providing deep insights into the musical diversity of Spotify users' playlists.  
-- [OpenAI API](https://github.com/DeiviGT1/openaiAPI.git): An amazing web application leveraging the OpenAI API to recommend songs based on lyric analysis, musical genres, artists, and popularity. Simply enter your favorite song, and discover new musical gems tailored to your unique tastes. The perfect blend of data science and a passion for music!  
+## 🎯 Current goals  
+- Contribute to more open-source analytics libraries.  
+- Deepen my Swift and iOS development skills.  
+- Publish tutorials and write more technical blog posts.
 
-## 🚀 Goals
-- Contribute more to open-source projects.  
-- Explore Swift and deepen my knowledge in that area.  
-- Share knowledge through blogs and tutorials.  
+## 🤝 Let’s connect  
+- **LinkedIn:** [linkedin.com/in/davidgt1](https://www.linkedin.com/in/davidgt1/)  
+- **Website:** [josedavidgt.com](https://josedavidgt.com/)  
 
-## 📫 Let's Connect
-I’d love to connect with you and collaborate on exciting projects! Find me on:  
-
-- LinkedIn: [Davidgt1](https://www.linkedin.com/in/davidgt1/)  
-- Twitter: [@DavidGT1](tu_twitter)  
-- Website: [josedavidgt.com](https://josedavidgt.com/#)  
-
-Thanks for visiting my space! 🌟  
+Thanks for stopping by—feel free to explore, raise an issue, or suggest a collaboration! 🌟
