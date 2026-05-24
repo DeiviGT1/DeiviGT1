@@ -13,7 +13,7 @@ Data Analyst at a major cruise line in Hollywood, FL. Management Engineer by deg
 | **Databases** | PostgreSQL · Supabase · MongoDB · Neon |
 | **AI & Automation** | Claude API · OpenAI API · Claude Code agents |
 | **Payments** | Stripe · Wompi · ePayco |
-| **Cloud & DevOps** | Vercel · GCP (Cloud Run, BigQuery) · Docker · GitHub Actions |
+| **Cloud & DevOps** | Vercel · GCP  · AWS · Docker · GitHub Actions |
 | **Workflow** | Git/GitHub · VS Code · Claude Code · Jupyter |
 
 ## 📂 Featured projects
