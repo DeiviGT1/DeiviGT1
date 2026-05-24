@@ -1,30 +1,35 @@
-# Hi, I’m **Jose David González** 👋
+# Hi, I'm **Jose David González** 👋
 
-## 🚀 About me  
-Management Engineer turned data-driven developer, passionate about uncovering insights and building fast, user-friendly web apps. I thrive on learning new tools, automating workflows, and sharing what I discover along the way.
+## 🚀 About me
+Data Analyst at a major cruise line in Hollywood, FL. Management Engineer by degree, developer by obsession. I build data pipelines, analytics dashboards, and full-stack web apps. On the side, I run **Brisa Sites** — a web design service for small Hispanic businesses in Miami and Colombia.
 
-## 🛠️ Tech toolbox  
+## 🛠️ Tech toolbox
 | Domain | Stack |
 | ------ | ----- |
-| **Languages & Libraries** | Python · Pandas · NumPy · scikit-learn · JavaScript/TypeScript · React |
-| **Web** | HTML · CSS · Tailwind · Next.js |
-| **Data** | SQL · PostgreSQL · MongoDB |
-| **Cloud & DevOps** | Docker · GCP (Cloud Run, BigQuery) |
-| **Workflow** | Git/GitHub · VS Code · Jupyter Lab |
+| **Languages** | Python · JavaScript/TypeScript · SQL |
+| **Data & Analytics** | Pandas · NumPy · scikit-learn · BigQuery · Power BI · Google Analytics |
+| **Web — Backend** | Flask · Next.js 15 · Node.js |
+| **Web — Frontend** | React · Tailwind CSS · HTML/CSS |
+| **Databases** | PostgreSQL · Supabase · MongoDB · Neon |
+| **AI & Automation** | Claude API · OpenAI API · Claude Code agents |
+| **Payments** | Stripe · Wompi · ePayco |
+| **Cloud & DevOps** | Vercel · GCP (Cloud Run, BigQuery) · Docker · GitHub Actions |
+| **Workflow** | Git/GitHub · VS Code · Claude Code · Jupyter |
 
-## 📂 Featured projects  
+## 📂 Featured projects
 | Project | Description |
 | ------- | ----------- |
-| **[Spotify Analytics](https://github.com/DeiviGT1/spotify)** | Python notebooks that pull playlist data via the Spotify API, calculate popularity metrics, and surface listening patterns. |
-| **[OpenAI Song Recommender](https://github.com/DeiviGT1/openaiAPI)** | React app that uses the OpenAI API to suggest new tracks based on lyrics, genre, and artist similarity. |
+| **[josedavidgt.com](https://www.josedavidgt.com)** | Personal portfolio + Brisa Sites landing + Excel course platform. Flask, Vercel, GA4, Stripe, Supabase. |
+| **[Brisa Sites](https://www.josedavidgt.com/brisa-sites/)** | Web design service with hybrid pricing (setup + monthly). 6 vertical landing pages, bilingual ES/EN. |
+| **[Spotify Analytics](https://github.com/DeiviGT1/spotify)** | Python notebooks pulling playlist data via Spotify API, calculating popularity metrics and listening patterns. |
+| **[OpenAI Song Recommender](https://github.com/DeiviGT1/openaiAPI)** | React app using OpenAI API to suggest tracks based on lyrics, genre, and artist similarity. |
 
-## 🎯 Current goals  
-- Contribute to more open-source analytics libraries.  
-- Deepen my Swift and iOS development skills.  
-- Publish tutorials and write more technical blog posts.
+## 🎯 Current focus
+- Growing **Brisa Sites** — targeting restaurants, barbershops, and small retail in Miami-Dade and Colombia.
+- Building AI-powered automation for web development with Claude Code agents.
+- Writing about AI's impact on the job market and data engineering.
 
-## 🤝 Let’s connect  
-- **LinkedIn:** [linkedin.com/in/davidgt1](https://www.linkedin.com/in/davidgt1/)  
-- **Website:** [josedavidgt.com](https://josedavidgt.com/)  
-
-Thanks for stopping by—feel free to explore, raise an issue, or suggest a collaboration! 🌟
+## 🤝 Let's connect
+- **LinkedIn:** [linkedin.com/in/davidgt1](https://www.linkedin.com/in/davidgt1/)
+- **Website:** [josedavidgt.com](https://www.josedavidgt.com)
+- **Instagram:** [@davidgt1163](https://www.instagram.com/davidgt1163/)
