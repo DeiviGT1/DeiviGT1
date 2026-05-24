@@ -21,8 +21,9 @@ Data Analyst at a major cruise line in Hollywood, FL. Management Engineer by deg
 | ------- | ----------- |
 | **[josedavidgt.com](https://www.josedavidgt.com)** | Personal portfolio + Brisa Sites landing + Excel course platform. Flask, Vercel, GA4, Stripe, Supabase. |
 | **[Brisa Sites](https://www.josedavidgt.com/brisa-sites/)** | Web design service with hybrid pricing (setup + monthly). 6 vertical landing pages, bilingual ES/EN. |
-| **[Spotify Analytics](https://github.com/DeiviGT1/spotify)** | Python notebooks pulling playlist data via Spotify API, calculating popularity metrics and listening patterns. |
-| **[OpenAI Song Recommender](https://github.com/DeiviGT1/openaiAPI)** | React app using OpenAI API to suggest tracks based on lyrics, genre, and artist similarity. |
+| **[HorizonFlows](https://horizonflows.com)** | AI-powered travel itinerary generator + phone wallpaper creator. |
+| **[El Gato Tuerto](https://github.com/DeiviGT1/gato-tuerto)** | Full-stack liquor store e-commerce. Product catalog, cart, checkout. |
+| **[SOS Llaves y Claves](https://sosllavesyclaves.com)** | Locksmith business site with queue management system for real-time job tracking. |
 
 ## 🎯 Current focus
 - Growing **Brisa Sites** — targeting restaurants, barbershops, and small retail in Miami-Dade and Colombia.
